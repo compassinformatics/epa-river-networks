@@ -1,0 +1,25 @@
+.reveal section div.meta {
+    font-style: italic;
+    font-size: 0.4em;
+    padding-top: 2em;
+    clear: both;
+    text-align: right;
+}
+
+
+.img-border {
+    border: thin solid black;
+}
+
+.subtitle {
+    font-size: 18px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+    .image-container img {
+        display: inline-block;
+        margin: 10px;
+    }
